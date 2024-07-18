@@ -15,6 +15,7 @@
 *.so
 *.dylib
 *.dll
+*.vs
 
 # Fortran module files
 *.mod
@@ -29,4 +30,5 @@
 # Executables
 *.exe
 *.out
-*.app
+*.app.
+*.sqlite
