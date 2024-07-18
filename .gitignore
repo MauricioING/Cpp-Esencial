@@ -10,7 +10,6 @@
 # Precompiled Headers
 *.gch
 *.pch
-*.sqlite
 
 # Compiled Dynamic libraries
 *.so
@@ -26,7 +25,6 @@
 *.la
 *.a
 *.lib
-*.vs
 
 # Executables
 *.exe
