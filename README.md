@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # C++ Esencial
-
 Adéntrate en el mundo de la programación en C++ practicando con los ejercicios publicados en este repositorio, gracias a los cuales aprenderás los conceptos básicos de la programación. Repasarás tipos básicos como variables y constantes, y otrost ipos más complejos, como arrays, vectores y matrices. También aprenderás sobre el control de flujo mediante estructuras como if y switch, creación y correcta utilización de bucles, clases y objetos, ¡y mucho más!
-=======
-# C++ Esencial
->>>>>>> 1dffeff079c36f7872987d5f7c04ce3e76e6bb39
-=======
-# C++ Esencial
->>>>>>> 1dffeff079c36f7872987d5f7c04ce3e76e6bb39
+
+
